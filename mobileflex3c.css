@@ -1,0 +1,35 @@
+.bgimg3{
+	background-image: url('https://www.pathwaysinternational.com/wp-content/uploads/2019/01/black-and-gold-banner-5.png');
+	background-size: cover;
+	height: 200vh;
+	width: 100vw;
+}
+.headfirst{
+	font-family:Roboto ;
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	padding: 20px;
+}
+.bgcarosuelcard{
+	background-color: white;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	margin: 100px;
+	margin-top: 15px;
+}
+.cardcon{
+	padding: 20px;
+}
+.headsecond{
+	color: blue;
+	font-family: 'Roboto';
+	font-size: 20px;
+	font-weight: bold;
+}
+.paraline{
+	color: #000000 ;
+	font-family: 'Roboto';
+	font-size: 12px;
+
+}

@@ -1,0 +1,15 @@
+.font{
+	font-family: Roboto;
+}
+.bgimg{
+	background-image: url('https://image.freepik.com/free-vector/digital-mobile-smartphone-technology-background-with-circuit-diagram_1017-21004.jpg');
+	background-size: cover;
+	height: 100vh;
+}
+.layoutcard{
+	background-color: white;
+	height: 200px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	padding: 20px;
+}
